@@ -4,3 +4,6 @@ A tracker app used to track Coronavirus recoveries, deaths and cases around the 
 
 ![](imagers/datapic.png)
 
+Search by country for country specific data
+
+![](imagers/picker.png)
